@@ -2,7 +2,10 @@
     <head>
         <title>Projeto Teste</title>
     </head>
-    <body>
+    <body> 
+        
+        <form name="data" method="POST">
+        </form>
 
     </body>
 </html>
